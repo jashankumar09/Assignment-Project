@@ -1,0 +1,39 @@
+body{
+    Background-color :#fff;
+    color:#4d4d4d;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.banner
+{
+
+        position: absolute;
+        left: 15px;
+        top: 15px;
+        width: 150px;
+        height: 309px;
+        vertical-align: middle;
+        text-align: center;
+
+        font-style: italic;
+        padding: 1em 0 1em 0;
+      
+}
+
+
+
+.modal{
+    background-color: #fff;
+    color : #4d4d4d;
+}
+
+/* 
+* if user click top menu 'contact' or 'about' one "active" class add on menu & page scroll to that section.
+
+* When user submits the 'contact' form, it should fire all javascript validations as all the fields are required fields. Email should only accept valid email address. Name shouldn't accept numerals.
+
+* Nice to have - put your code on github. */
+
+
